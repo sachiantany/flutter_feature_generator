@@ -420,7 +420,3 @@ Contributions welcome! The modular structure makes it easy:
 ## 📄 License
 
 MIT License - Feel free to use and modify!
-
-## 🙏 Credits
-
-Built for the litro-sales-tracker project by Finetech/FCPL.
