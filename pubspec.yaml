@@ -1,0 +1,17 @@
+name: flutter_feature_generator
+description: A modular code generator for Flutter features using Clean Architecture and BLoC pattern
+version: 2.0.2
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+dev_dependencies:
+  lints: ^3.0.0
+
+executables:
+  feature_gen:
